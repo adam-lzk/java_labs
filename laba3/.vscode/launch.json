@@ -1,0 +1,16 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch MainFrame",
+            "request": "launch",
+            "mainClass": "bsu.rfe.java.group10.lab3.Laziuk.varB6.MainFrame",
+            "projectName": "laba3_962b7aae",
+            "args": "${command:SpecifyProgramArgs}"
+        }
+    ]
+}
